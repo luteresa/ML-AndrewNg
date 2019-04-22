@@ -1,7 +1,26 @@
 # **ML-AndrewNg**
-课程地址：<https://www.coursera.org/course/ml>
+#这个仓库主要作为吴恩达《机器学习》的作业练习和相关笔记，
+
+## 学习资源：
+
+1.coursera课程地址：<https://www.coursera.org/course/ml>
+
+吴恩达专门为网络初学者制作，内容与斯坦福网络课堂基本一致，难度稍降，有意避开了一些地方的数学推导；
+
+coursera上课程是免费的，作业辅导需付费；
+
+
+2.网易云课堂：
+
+与coursesa版完全相同，提供所有高清视频和ppt下载；
+
+配置黄海广博士提供的中文翻译；
+
+3.黄海广博士的翻译和笔记：<https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes>
+
+黄海广博士的仓库，包括《ML》所有相关资源，包括源码，笔记，翻译，字母等；
+
 
 Machine Learning(机器学习):是研究计算机怎样模拟或实现人类的学习行为，以获取新的知识或技能，重新组织已有的知识结构使之不断改善自身的性能。
 
-<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
-# Overview
+
